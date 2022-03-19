@@ -3,6 +3,7 @@ import "@hotwired/turbo-rails"
 import "controllers"
 
 import "bootstrap"
+import "custom/glightbox"
 import "custom/purecounter"
 import "custom/isotope.pkgd"
 import "custom/swiper-bundle.min"
